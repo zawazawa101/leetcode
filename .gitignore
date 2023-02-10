@@ -3,3 +3,7 @@
 
 # mac
 .DS_Store
+
+
+# other
+node_modules
